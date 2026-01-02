@@ -32,6 +32,8 @@ Improving Data Structures & Algorithms
 Building production-ready full stack projects
 Strengthening core CS fundamentals
 🤝 Connect With Me
-💼 LinkedIn: (https://www.linkedin.com/in/neha-kudale)
+💼 LinkedIn: https://www.linkedin.com/in/jyoti-pujari-96634b284/
 💻 GitHub: You’re already here 😉
-📧 Email: nehakudale1234@gmail.com
+📧 Email: jyotipujari461@gmail.com
+
+
